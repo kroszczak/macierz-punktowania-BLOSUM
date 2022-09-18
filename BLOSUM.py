@@ -60,7 +60,3 @@ for key in sorted(result):
 		print(f'{result[key2][key]:>3}', end="")
 	print()
 
-
-
-
-
